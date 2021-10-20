@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<server>10.10.220.60</server>
+	<port>52311</port>
+	<besuser>IEMAdmin</besuser>
+	<!-- If the "bespassword" tag is present, it will use the value inside as
+	the password for the BigFix login. If it is not present, the program will
+	prompt the user to enter the password, but will not echo what is typed. -->
+	<bespassword>BigFix!123</bespassword>
+</config>
+

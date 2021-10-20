@@ -1,0 +1,4 @@
+computer name
+if name of operating system as lowercase contains "win" then names of files in folder "C:\" else names of files in folder "/"
+exists file "/etc/shadow"
+now
