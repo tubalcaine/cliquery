@@ -1,4 +1,4 @@
 computer name
-if name of operating system as lowercase contains "win" then names of files in folder "C:\" else names of files in folder "/"
+if name of operating system as lowercase contains "win" then names of files of folder "C:\" else names of files of folder "/"
 exists file "/etc/shadow"
 now
